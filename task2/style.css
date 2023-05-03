@@ -1,0 +1,102 @@
+.box {
+    box-sizing: content-box;
+    height: 500px;
+    width: 450px;
+    border-color: black;
+    margin-top: 5rem;
+  }
+  .box1{
+    box-sizing: content-box;
+    height: 500px;
+    width: 450px;
+    border-color: black;
+    margin-top: 5rem;
+  }
+  .box2{
+    box-sizing: content-box;
+    height: 500px;
+    width: 900px;
+    border-color: black;
+   margin-left: 12rem;
+   margin-top: 5rem;
+  }
+  .box3{
+    box-sizing: content-box;
+    height: 550px;
+    width: 450px;
+    border-color: black;
+ margin-left: 12rem;
+ margin-top: 5rem;
+  }
+  .box4{
+    box-sizing: content-box;
+    height: 550px;
+    width: 450px;
+    border-color: black;
+    margin-top: 5rem;
+ 
+  }
+  .box5{
+    box-sizing: content-box;
+    height: 550px;
+    width: 450px;
+    border-color: black;
+  margin-top: 5rem;
+  margin-left: 12rem;
+  }
+  .box6{
+    box-sizing: content-box;
+    height: 550px;
+    width: 450px;
+    border-color: black;
+    margin-top: 5rem;
+    margin-right: 12rem;
+  }
+  .font{
+    font-size: 90px;
+    font-weight: bolder;
+    padding: 0px;
+  }
+  .box7{
+    box-sizing: content-box;
+    height: 370px;
+    width: 900px;
+    border-color: black;
+    margin-top: 5rem;
+    margin-left: 12rem;
+  }
+  .box8{
+    box-sizing: content-box;
+    height: 370px;
+    width: 900px;
+    border-color: black;
+    margin-top: 5rem;
+    margin-left: 12rem;
+  }
+  .box9{
+    box-sizing: content-box;
+    height: 600px;
+    width: 450px;
+    border-color: black;
+    margin-top: 5rem;
+    margin-left: 12rem;
+  }
+  .box10{
+    box-sizing: content-box;
+    height: 600px;
+    width: 450px;
+    border-color: black;
+    margin-top: 5rem;
+    margin-right: 12rem;
+  }
+ .font1{
+  font-size: 40px;
+ }
+.font2{
+  font-size: 35px;
+  font-size: bolder;
+}
+.font3{
+  font-size: 45px;
+  font-weight: bolder;
+}
